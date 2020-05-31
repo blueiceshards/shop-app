@@ -68,3 +68,7 @@ npm install --save-dev redux-devtools-extension
 npm install --save @expo/vector-icons
 
 npm install --save moment
+
+npm install --save redux-thunk
+
+npm install --save expo-linear-gradient
